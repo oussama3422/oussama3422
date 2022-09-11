@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oussama3422
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested for internship .
+- 🌱 I’m currently learning flutter framework.
+- 💞️ I’m looking to collaborate on flutter developement
 - 📫 How to reach me ... ossamachreki2001@gmail.com fell free to contact me.
 
 <!---
