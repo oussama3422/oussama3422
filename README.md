@@ -35,5 +35,13 @@ You can click the Preview link to take a look at your changes.
 <!-- Python -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
+<!-- Wordpress -->
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+
+<!-- Kotlin -->
+<img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+
+<!-- Laravel -->
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 
 ...
