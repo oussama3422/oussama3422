@@ -9,8 +9,6 @@ oussama3422/oussama3422 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## 🔧 Skills & Tools
-## 🔧 Skills & Tools
-
 <!-- Flutter -->
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 <!-- Dart -->
